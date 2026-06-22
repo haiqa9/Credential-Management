@@ -1129,6 +1129,6 @@ Use this template to document secrets as they are migrated:
 
 ---
 
-*Next Review: 2026-07-22 (monthly)*  
+  
 *Document Owner: IT Infrastructure Team*  
 *Related Documents: `Expertflow IT assets.md`, `ITAM-Strategy.md`, `IT-Open-Questions.md`, `ITAM-Documentation.md`*
