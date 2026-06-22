@@ -2,8 +2,7 @@
 
 > **Version:** 1.0  
 > **Status:** Draft — Pending Review  
-> **Owner:** IT Infrastructure Team  
-> **Stakeholders:** All Department Heads, Security, DevOps, Agentic Dev Team  
+> **Owner:** IT Team  
 > **Last Updated:** 2026-06-22
 
 ---
